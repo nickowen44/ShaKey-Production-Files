@@ -1,0 +1,19 @@
+RefDes,TYPE,Value,Name,Pattern,QTY,e14 ,Mouser
+"C3, C4, C6, C10, C11, C1, C2, C12",Capacitor,"0.1 µF, 16 V, ± 5%, X7R, AVX 0603 MLCC",SMD Multilayer Ceramic Capacitor, 0603 [1608 Metric],8,http://www.farnell.com/datasheets/2237835.pdf?_ga=2.158690099.800920143.1529287558-1272540881.1521074729,
+C5,Capacitor,1uF,SMD Multilayer Ceramic Capacitor, 0603 [1608 Metric],1,http://au.element14.com/murata/grm188r60j105ka01d/cap-mlcc-x5r-1uf-6-3v-0603/dp/9527699,
+C7,Capacitor,"2200 pF, 50 V, ± 10%, X7R, C Series",SMD Multilayer Ceramic Capacitor, 0603 [1608 Metric],1,http://au.element14.com/kemet/c0603c222k5ractu/cap-mlcc-x7r-2-2nf-50v-0603/dp/1414624,
+"C8, C9",Capacitor,"22 pF, 50 V, ± 1%, C0G / NP0, AVX 0603 MLCC",SMD Multilayer Ceramic Capacitor, 0603 [1608 Metric],2,http://au.element14.com/avx/06035a220fat2a/cap-mlcc-c0g-np0-22pf-50v-0603/dp/2332610,
+F1,Fuse,712-7470,PICOSMDC035S-2 ,SOD-123,1,,https://au.mouser.com/ProductDetail/Littelfuse/PICOSMDC035S-2?qs=%2fha2pyFadui4fkvFK5EOVHaCOyWoVbfLSpNmHBL%2f0c0%3d
+J1,USB Connector,USB2066-05-RBHM-15-STB-00-00-A ,MINI USB CONN,Mini USB,1,http://au.element14.com/gct-global-connector-technology/usb2066-05-rbhm-15-stb-00-00-a/mini-usb-2-0-type-b-receptacle/dp/2293774?st=USB2066-05-RBHM-15-STB-00-00-A,
+"LED2, LED3, LED4, LED5, LED6, LED7",LED,BLUE LED,KPTR-3216QBC-D,LED_0805_REVERSED,6,http://au.element14.com/kingbright/kptr-3216qbc-d/led-smd-1206-reverse-blue/dp/2217987?st=KPTR-3216QBC-D,
+P-ON,LED,"KP-2012SGC
+","Green LED, 2012 (0805)",DIO_0805,1,http://au.element14.com/kingbright/kp-2012sgc/led-1-25-x-1-3mm-green-12mcd-568nm/dp/1318243?rpsku=rel1:LGR971Z&isexcsku=false,
+"R1, R2",Resistor,"SMD Chip Resistor, 22 ohm, MCWR Series, 50 V, Thick Film",Thick Film SMD Resistor, 0603 [1608 Metric],2,http://au.element14.com/multicomp/mcwr06x22r0ftl/res-thick-film-22ohm-1-0-1w/dp/2447301?st=MCWR06X22R0FTL,
+"R3, R7, R9, R14, R15, R16",Resistor,"SMD Chip Resistor, Ceramic, 1 kohm, MCMR Series, 75 V, Thick Film ",Thick Film SMD Resistor, 0603 [1608 Metric],6,http://au.element14.com/multicomp/mcmr06x1001ftl/res-ceramic-1k-1-0-1w-0603/dp/2073348RL,
+"R4, R5, R10, R11, R12, R13",Resistor,"22 Mohm, RC Series, 75 V, Thick Film ",Thick Film SMD Resistor, 0603 [1608 Metric],6,http://www.farnell.com/datasheets/1868787.pdf?_ga=2.227327898.627128778.1529287597-406694993.1523869322&_gac=1.3403652.1526542495.EAIaIQobChMItJfD952M2wIVlg4rCh0ahgSgEAAYASAAEgIwTPD_BwE,
+"R6, R8,R17",Resistor,"SMD Chip Resistor, 10 kohm, RC Series, 150 V, Thick Film",Thick Film SMD Resistor,"0805 [2012 Metric],",3,http://au.element14.com/yageo/rc0805fr-0710kl/res-thick-film-10k-1-0-125w-0805/dp/9237755?ost=9237755&scope=partnumberlookahead&exaMfpn=true&searchref=searchlookahead&ddkey=http%3Aen-AU%2FElement14_Australia%2Fw%2Fsearch,
+S1,Push button,"SWITCH, TACTILE, SPST-NO, 20mA, 15VDC, SMD",EVQPLMA15,EVQ-PLx-wG,1,http://au.element14.com/panasonic-electronic-components/evq-plma15/switch-tactile-spst-no-20ma-15vdc/dp/2459525?st=EVQPLMA15,
+U1,Voltage Regulator,3.3V 150mA LDO Voltage Regulators ,TLV71333PDBVT,SOT23-5,1,http://au.element14.com/texas-instruments/tlv71333pdbvt/ldo-fixed-3-3v-0-15a-sot-23-5/dp/2782928?ost=TLV71333PDBVT&ddkey=http%3Aen-AU%2FElement14_Australia%2Fsearch,
+U2,Processor,ATMEGA32U4-AU -  16MHz 8bit megaAVR Microcontroller in TQFP-44 Package,ATMEGA32U4_TQFP44,QFP-44/12x12x0.8,1,http://au.element14.com/microchip/atmega32u4-au/mcu-8bit-megaavr-16mhz-tqfp-44/dp/1748525?st=ATMEGA32U4-AU,
+U3,Accelerometer,410-MPU-6050,MPU-6050,QFN50P400X400X95-25N,1,,https://au.mouser.com/ProductDetail/TDK-InvenSense/MPU-6050?qs=%2fha2pyFadugw%252bbjVmg%252b4qgvYTbx8JZcdWsVVStohjxQckhTVnR9zNw%3d%3d
+X1,Oscillator,"Crystal, 16 MHz, SMD, 5mm x 3.2mm, 30 ppm, 18 pF, 20 ppm, ABM3 Series",ABM3-16.000MHZ-D2Y-T,SMD-5x3.2,1,http://au.element14.com/abracon/abm3-16-000mhz-d2y-t/crystal-16mhz-18pf-5-x-3-2mm/dp/2467791RL?st=ABM3-16.000MHZ-D2Y-T,
